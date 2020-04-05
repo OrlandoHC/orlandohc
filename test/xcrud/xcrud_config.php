@@ -2,8 +2,8 @@
 class Xcrud_config
 {
     // default connection
-    public static $dbname = 'id8700070_comunica'; // Your database name
-    public static $dbuser = 'id8700070_root'; // Your database username
+    public static $dbname = 'umf91'; // Your database name
+    public static $dbuser = 'root'; // Your database username
     public static $dbpass = 'h4ck34m3'; // // Your database password
     public static $dbhost = 'localhost'; // Your database host, 'localhost' is default.
 
